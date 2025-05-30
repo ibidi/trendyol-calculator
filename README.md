@@ -411,9 +411,9 @@ CMD ["npm", "start"]
 ## 📞 Destek ve İletişim
 
 ### Topluluk
-- 💬 **Discord**: [Sunucumuza katılın](https://discord.gg/your-server)
-- 🐦 **Twitter**: [@trendyol_calc](https://twitter.com/trendyol_calc)
-- 📧 **Email**: support@trendyol-calculator.com
+- 💬 **Discord**: [Sunucumuza katılın](https://discord.gg/)
+- 🐦 **Twitter**: [@ibidi](https://twitter.com/ibidi_codes)
+- 📧 **Email**: info@ibidi.tr
 
 ### Sorun Bildirimi
 - 🐛 **Bug Report**: [GitHub Issues](https://github.com/ibidi/trendyol-calculator/issues)
@@ -457,9 +457,9 @@ SOFTWARE.
 ## 🙏 Teşekkürler
 
 ### Katkıda Bulunanlar
-- [@yourusername](https://github.com/ibidi) - Proje kurucusu
-- [@contributor1](https://github.com/ibidi) - API entegrasyonu
-- [@contributor2](https://github.com/ibidi) - UI/UX iyileştirmeleri
+- [@ibidi](https://github.com/ibidi) - Proje kurucusu
+- [@ibidi](https://github.com/ibidi) - API entegrasyonu
+- [@ibidi](https://github.com/ibidi) - UI/UX iyileştirmeleri
 
 ### Kullanılan Teknolojiler
 - [Next.js](https://nextjs.org/) - React framework
@@ -477,8 +477,8 @@ SOFTWARE.
 
 Bu proje size yardımcı olduysa, lütfen ⭐ vererek destekleyin!
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/trendyol-profit-calculator?style=social)](https://github.com/yourusername/trendyol-profit-calculator/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/trendyol-profit-calculator?style=social)](https://github.com/yourusername/trendyol-profit-calculator/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/ibidi/trendyol-calculator?style=social)](https://github.com/ibidi/trendyol-calculator/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ibidi/trendyol-calculator?style=social)](https://github.com/ibidi/trendyol-calculator/network/members)
 
 ---
 
